@@ -1,4 +1,4 @@
-package hw12Abstraction;
+package hw11Abstraction;
 
 public class ColombiaUniversity extends MedicalSchool {
 
@@ -14,5 +14,6 @@ public class ColombiaUniversity extends MedicalSchool {
 	// There is only one keyword that used for Inheritance (which is extends)
 	// The regular class can extend a regular class and an abstract class but not an
 	// Interface
+	// Implements keyword can be used to inherit Interface
 	// An regular class can only extend (Inherit)once
 }

@@ -1,4 +1,4 @@
-package hw12Abstraction;
+package hw11Abstraction;
 
 public interface University extends College, Hospital {
 	public abstract void classSize();
@@ -16,6 +16,7 @@ public interface University extends College, Hospital {
 	}
 	// Only one keyword is used for Inheritance (which is extends)
 	// The interface can inherit interfaces but cannot extend a regular or an
-	// abstract method
-	//The interface can extend multiple times
+	// abstract method (by using the extends keyword)
+	// Interface cannot have a implement keyword (So it cannot be inherited either)
+	// The interface can extend multiple times
 }

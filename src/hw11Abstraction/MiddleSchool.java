@@ -1,4 +1,4 @@
-package hw12Abstraction;
+package hw11Abstraction;
 
 public abstract class MiddleSchool extends NursingSchool {
 

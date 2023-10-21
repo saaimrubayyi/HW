@@ -1,4 +1,4 @@
-package hw12Abstraction;
+package hw11Abstraction;
 
 public interface College {
 	public default void dorm() {
