@@ -13,7 +13,7 @@ public class TestInstitute {
 		colombiaUniversity.playGround();
 		colombiaUniversity.teacher();
 		colombiaUniversity.gymnasium();
-		// colombiaUniversity.librery();
+		//ColombiaUniversity.library();
 		colombiaUniversity.dorm();
 		// colombiaUniversity.studyRoom();
 		colombiaUniversity.morgadge();
